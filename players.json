@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Virat Kohli",
+        "photo": "https://documents.iplt20.com/ipl/IPLHeadshot2024/2.png",
+        "country": "India",
+        "role": "Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": 2000000
+    },
+    {
+        "name": "Steve Smith",
+        "photo": "https://cdndailyexcelsior.b-cdn.net/wp-content/uploads/2024/09/SPORTS-3.jpg",
+        "country": "Australia",
+        "role": "Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm leg spin",
+        "price": 1800000
+    },
+    {
+        "name": "Kane Williamson",
+        "photo": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383172.png",
+        "country": "New Zealand",
+        "role": "Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": 1700000
+    },
+    {
+        "name": "Ben Stokes",
+        "photo": "https://documents.iplt20.com/playerheadshot/ipl/284/1154.png",
+        "country": "England",
+        "role": "All-rounder",
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm fast-medium",
+        "price": 2200000
+    },
+    {
+        "name": "Babar Azam",
+        "photo": "https://d2l63a9diffym2.cloudfront.net/players/jdHrDyA3wt5vtC58WKFcSrNpFU8r80pWwWqJKxDS.png",
+        "country": "Pakistan",
+        "role": "Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": 1600000
+    },
+    {
+        "name": "Rashid Khan",
+        "photo": "https://documents.iplt20.com/ipl/IPLHeadshot2024/218.png",
+        "country": "Afghanistan",
+        "role": "Bowler",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm leg spin",
+        "price": 1400000
+    },
+    {
+        "name": "Jasprit Bumrah",
+        "photo": "https://documents.iplt20.com/ipl/IPLHeadshot2024/9.png",
+        "country": "India",
+        "role": "Bowler",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "price": 1900000
+    },
+    {
+        "name": "Chris Gayle",
+        "photo": "https://documents.iplt20.com/playerheadshot/ipl/284/236.png",
+        "country": "West Indies",
+        "role": "Batsman",
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": 2100000
+    },
+    {
+        "name": "AB de Villiers",
+        "photo": "https://documents.iplt20.com/playerheadshot/ipl/284/233.png",
+        "country": "South Africa",
+        "role": "Batsman",
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": 2000000
+    }
+]
